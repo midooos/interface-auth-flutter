@@ -1,8 +1,4 @@
-// ============================================================
-// TP 1 Flutter : Interface d'Authentification Simplifiée
-// Réalisé par : Mohamed
-// Modification : comparaison m3a email w mot de passe s7a7 (mkatbin fil code)
-// ============================================================
+
 
 // Nimportiw el packages elli nestahkou fihom (el widgets mta3 Flutter)
 import 'package:flutter/material.dart';
